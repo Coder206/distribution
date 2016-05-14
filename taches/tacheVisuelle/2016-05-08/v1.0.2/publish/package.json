@@ -1,0 +1,13 @@
+{
+  "name": "debut",
+  "version": "1.0.0",
+  "description": "La première version du site Web Distribution",
+  "main": "server.js",
+  "author": "Patrick Trottier (Coder206)",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.4",
+    "socketio": "^1.0.0",
+    "json-file": "~0.1.0"
+  }
+}
